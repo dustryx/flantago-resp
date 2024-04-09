@@ -49,6 +49,6 @@ document.addEventListener('DOMContentLoaded', () => {
       });
     };
   
-    fetchAllMovies(); // Fetch all movies
+    fetchAllMovies(); 
   });
   
